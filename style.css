@@ -17,3 +17,6 @@ ul > li {
      -moz-column-width: 280px;
           column-width: 280px;
 }
+a {
+  text-decoration: none;
+}

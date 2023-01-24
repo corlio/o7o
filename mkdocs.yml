@@ -1,0 +1,130 @@
+site_name: Recettes de cuisine
+site_description: Recettes de cuisine de Corinne & Lionel
+site_author: Corinne & Lionel
+use_directory_urls: false
+theme:
+  name: 'material'
+  font: false
+  language: fr
+  favicon: img/favicon.ico
+plugins:
+  - search:
+      lang: fr
+extra_css:
+  - 'css/extra.css'
+nav:
+  - Index:
+    - "Entrée / Apéritif":
+      - "Blinis": b0000.md
+      - "Moelleux au chèvre frais et chorizo": mcfc0.md
+    - "Entrée / Légume":
+      - "Carottes au cumin": cc000.md
+    - "Entrée / Salade":
+      - "Salade afghane": sa000.md
+      - "Salade de pois chiches orientale": spco0.md
+      - "Salade quinoa-saumon-pamplemousse": sqsp0.md
+    - "Entrée / Cake &amp; Terrine":
+      - "Cake au roquefort et aux noix": crn00.md
+      - "Cake raclette-bacon": crb00.md
+      - "Pain de thon": pt000.md
+      - "Soufflé au fromage": sf000.md
+      - "Soufflé au fromage (avec semoule)": sfas0.md
+      - "Terrine poulet-brocolis": tpb00.md
+    - "Plat / Poisson":
+      - "Choucroute de la mer": cm000.md
+      - "Lotte à l'armoricaine": la000.md
+    - "Plat / Accompagnement":
+      - "Gâteau de courgettes râpées": gcr02.md
+      - "Korma d'aubergines (Anne)": kaa00.md
+    - "Plat / Complet":
+      - "Chakchouka": c0000.md
+      - "Colombo d'agneau": ca000.md
+      - "Crousti-riz à la portugaise": crp00.md
+      - "Garbure": g0000.md
+      - "Haricots blancs au chorizo": hbc00.md
+      - "Jambalaya": j0000.md
+      - "Lasagne de tortillas": lt000.md
+      - "Parmentier de canard": pc000.md
+      - "Quiche Lorraine": ql000.md
+      - "Raclette en tourte": ret00.md
+      - "Tarte à la raclette": tr000.md
+      - "Tarte grecque": tg000.md
+      - "Wok de lentilles et quinoa parfumés": wlqp0.md
+    - "Dessert / Tarte":
+      - "Galette des rois": gr000.md
+      - "Tarte au citron et fromage blanc": tcfb0.md
+      - "Tarte au fromage (Maria)": tfm00.md
+      - "Tarte Carambar": tc000.md
+    - "Dessert / Gâteau":
+      - "Banana bread": bb000.md
+      - "Banana bread coco": bbc00.md
+      - "Cake purée de marrons-noisettes": cpmn0.md
+      - "Clafoutis aux fruits": cf000.md
+      - "Far breton": fb000.md
+      - "Farci de pain": fp000.md
+      - "Gâteau à la noix de coco": gnc00.md
+      - "Gâteau aux amandes": ga000.md
+      - "Gâteau aux framboises et tofu": gft00.md
+      - "Gâteau aux pommes": gp000.md
+      - "Gâteau café-ricotta": gcr00.md
+      - "Gâteau crème de marrons": gcm00.md
+      - "Gâteau de céréales": gc000.md
+      - "Gâteau fruits rouges lait de coco": gfrl0.md
+      - "Gâteau lait de coco": glc00.md
+      - "Gâteau nantais": gn000.md
+      - "Léger framboises-amandes": lfa00.md
+    - "Dessert / Entremet":
+      - "Crème au caramel": cc002.md
+      - "Crème au chocolat": cc003.md
+      - "Crème Carambar": cc001.md
+      - "Cuajada au Carambar": cc004.md
+      - "Cuajada au yaourt": cy000.md
+      - "Flan à la châtaigne": fc000.md
+      - "Flan aux oeufs": fo000.md
+      - "Flan coco": fc001.md
+      - "Lemon curd": lc000.md
+      - "Mousse de Spéculoos": ms000.md
+      - "Panna cotta au Carambar": pcc00.md
+      - "Panna cotta au Spéculoos": pcs00.md
+      - "Panna cotta aux fruits rouges": pcfr0.md
+      - "Semoule au chocolat": sc000.md
+      - "Semoule aux raisins": sr000.md
+      - "Tapioca banane": tb000.md
+    - "Dessert / Chocolat":
+      - "Brownie (Margotte)": bm000.md
+      - "Brownie au lait concentré": blc00.md
+      - "Choco fondant sans farine": cfsf0.md
+      - "Fondant au chocolat et petit-suisse": fcps0.md
+      - "Fondant choco-caramel": fcc00.md
+      - "Fondant marron-chocolat": fmc00.md
+      - "Gâteau chocolat et blancs d'oeufs": gcbo0.md
+      - "Gâteau chocolat-ricotta": gcr01.md
+      - "Gâteau cuajada-chocolat (Paloma)": gccp0.md
+      - "Gâteau poire-choco": gpc00.md
+      - "Marquise au chocolat": mc000.md
+      - "Moussane": m0000.md
+      - "Mousse au chocolat": mc001.md
+      - "Soufflé au chocolat": sc001.md
+    - "Dessert / Pièce":
+      - "Amaretti crème de marrons": acm00.md
+      - "Biscuits noix de coco": bnc00.md
+      - "Bouchées aux noisettes": bn000.md
+      - "Cookies": c0001.md
+      - "Cookies aux flocons d'avoine": cfa00.md
+      - "Cookies moelleux au chocolat": cmc00.md
+      - "Dollars": d0000.md
+      - "Fudge au chocolat": fc002.md
+      - "Mini cakes aux amandes": mca00.md
+      - "Moelleux à la pistache, coeur Nutella": mpcn0.md
+      - "Rochers congolais": rc000.md
+      - "Tartelettes au chocolat (Sibylle)": tcs00.md
+      - "Tartelettes aux noix": tn000.md
+    - "Dessert / Petit déjeuner":
+      - "Granola": g0001.md
+    - "Autre / Boisson":
+      - "Orangello": o0000.md
+    - "Autre / Pâte":
+      - "Pâte brisée": pb000.md
+      - "Pâte sablée": ps000.md
+  - Ingrédients: ingrd.md
+  - Équivalences: equiv.md
